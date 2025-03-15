@@ -1,4 +1,4 @@
-Here’s a concise, all-in-one `README.md` in Markdown for the `xss-scanner-python` repository. It’s streamlined but still covers the essentials:
+
 
 ---
 

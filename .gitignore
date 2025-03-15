@@ -1,0 +1,11 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+.venv/
+xssenv/
+
+# Ignore Node modules (if added later)
+node_modules/
+
+# Ignore result files
+dynamicresult/*.txt

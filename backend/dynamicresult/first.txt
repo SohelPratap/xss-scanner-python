@@ -1,0 +1,291 @@
+{
+    "queryParams": {
+        "https://codeforces.com/?locale=en": [
+            "locale"
+        ],
+        "https://codeforces.com/?locale=ru": [
+            "locale"
+        ],
+        "https://codeforces.com/enter?back=%2F": [
+            "back"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=15&month=3&year=2025&hour=17&min=35&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://codeforces.com/search?query=zhilicup": [
+            "query"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=11&month=3&year=2025&hour=17&min=35&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://codeforces.com/search?query=round": [
+            "query"
+        ],
+        "https://codeforces.com/search?query=1009": [
+            "query"
+        ],
+        "https://codeforces.com/search?query=div.3": [
+            "query"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=10&month=3&year=2025&hour=17&min=45&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=13&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=14&min=10&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=15&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=16&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=17&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=19&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=20&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=21&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=22&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=8&month=3&year=2025&hour=23&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=3&year=2025&hour=15&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=3&year=2025&hour=16&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=3&year=2025&hour=17&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=3&year=2025&hour=18&min=0&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=3&year=2025&hour=19&min=20&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=9&month=3&year=2025&hour=20&min=5&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://inf-open.ru/?lang=ru": [
+            "lang"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=7&month=3&year=2025&hour=11&min=5&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=10&month=3&year=2025&hour=11&min=5&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?day=2&month=3&year=2025&hour=13&min=35&sec=0&p1=166": [
+            "day",
+            "month",
+            "year",
+            "hour",
+            "min",
+            "sec",
+            "p1"
+        ],
+        "https://codeforces.com/search?query=icpc": [
+            "query"
+        ],
+        "https://codeforces.com/search?query=euc": [
+            "query"
+        ],
+        "https://codeforces.com/search?query=euc-icpc": [
+            "query"
+        ],
+        "https://codeforces.com/search?query=porto": [
+            "query"
+        ],
+        "https://codeforces.com/search?query=euc2025": [
+            "query"
+        ],
+        "https://codeforces.com/search?query=icpc2025": [
+            "query"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+2025+ICPC+Asia+Pacific+Championship&iso=20250301T10&p1=236&ah=5": [
+            "msg",
+            "iso",
+            "p1",
+            "ah"
+        ],
+        "https://www.timeanddate.com/worldclock/fixedtime.html?msg=The+2025+ICPC+Asia+Pacific+Championship+-+Online+Mirror&iso=20250301T1005&p1=236&ah=5": [
+            "msg",
+            "iso",
+            "p1",
+            "ah"
+        ],
+        "https://codeforces.com/?mobile=true": [
+            "mobile"
+        ]
+    },
+    "forms": [
+        {
+            "action": "https://codeforces.com/search",
+            "inputs": [
+                {
+                    "name": "csrf_token",
+                    "type": "hidden"
+                },
+                {
+                    "name": "query",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "action": "https://codeforces.com/",
+            "inputs": [
+                {
+                    "name": "csrf_token",
+                    "type": "hidden"
+                },
+                {
+                    "name": "",
+                    "type": "text"
+                },
+                {
+                    "name": "",
+                    "type": "submit"
+                }
+            ]
+        }
+    ]
+}

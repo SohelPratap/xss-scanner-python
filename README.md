@@ -55,8 +55,6 @@ For educational use and authorized testing only. Not responsible for misuse.
 
 ## Contact
 - GitHub: [SohelPratap](https://github.com/SohelPratap)
-- Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-This version is compact yet functional. Replace `your-email@example.com` with your actual email, and adjust specifics (e.g., dependencies or features) as needed. Let me know if you want more tweaks!

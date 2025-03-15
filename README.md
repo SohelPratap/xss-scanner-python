@@ -10,6 +10,7 @@ First, clone this repository to your local machine:
 ```bash
 git clone https://github.com/SohelPratap/xss-scanner-python.git
 cd xss-scanner-python
+```
 
 2. Install Dependencies
 
@@ -17,14 +18,18 @@ Backend (Python)
 	•	Create and activate a virtual environment:
 
 # If you don't have a virtual environment, create one
+```bash
 python3 -m venv xssenv
+```
 
 # Activate the virtual environment
+```bash
 source xssenv/bin/activate  # On Windows: xssenv\Scripts\activate
-
+```
 	•	Install the required Python libraries:
-
+```bash
 pip install -r requirements.txt
+```
 
 	•	Required libraries:
 	•	requests
@@ -43,8 +48,9 @@ Frontend (JavaScript)
 1. Start the Backend Server
 
 In the project directory, run the Flask server:
-
+```bash
 python backend/app.py
+```
 
 This will start the backend server at http://127.0.0.1:5000.
 
@@ -53,10 +59,14 @@ This will start the backend server at http://127.0.0.1:5000.
 To run the frontend, use Python’s HTTP server to serve the HTML files:
 
 # Navigate to the frontend folder
+```bash
 cd frontend
+```
 
 # Start the server
+```bash
 python3 -m http.server 8000
+```
 
 The frontend will be accessible at http://127.0.0.1:8000.
 

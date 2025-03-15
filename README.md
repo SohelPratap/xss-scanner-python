@@ -26,7 +26,7 @@ python3 -m venv xssenv
 ```bash
 source xssenv/bin/activate  # On Windows: xssenv\Scripts\activate
 ```
-	•	Install the required Python libraries:
+•	Install the required Python libraries:
 ```bash
 pip install -r requirements.txt
 ```

@@ -31,11 +31,11 @@ source xssenv/bin/activate  # On Windows: xssenv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-	•	Required libraries:
-	•	requests
-	•	flask
-	•	beautifulsoup4
-	•	flask_cors
+•	Required libraries:
+•	requests
+•	flask
+•	beautifulsoup4
+•	flask_cors
 
 Frontend (JavaScript)
 	•	Ensure you have Node.js installed for the frontend (if you decide to extend it).
